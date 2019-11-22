@@ -1,0 +1,10 @@
+C:\Users\ANDY\Documents\masterserverdev\MasterServer\bin\Debug\MasterServer.exe.config
+C:\Users\ANDY\Documents\masterserverdev\MasterServer\bin\Debug\MasterServer.exe
+C:\Users\ANDY\Documents\masterserverdev\MasterServer\bin\Debug\MasterServer.pdb
+C:\Users\ANDY\Documents\masterserverdev\MasterServer\bin\Debug\BeardedManStudios.dll
+C:\Users\ANDY\Documents\masterserverdev\MasterServer\bin\Debug\BeardedManStudios.pdb
+C:\Users\ANDY\Documents\masterserverdev\MasterServer\obj\Debug\MasterServer.csprojAssemblyReference.cache
+C:\Users\ANDY\Documents\masterserverdev\MasterServer\obj\Debug\MasterServer.csproj.CoreCompileInputs.cache
+C:\Users\ANDY\Documents\masterserverdev\MasterServer\obj\Debug\MasterServer.csproj.CopyComplete
+C:\Users\ANDY\Documents\masterserverdev\MasterServer\obj\Debug\MasterServer.exe
+C:\Users\ANDY\Documents\masterserverdev\MasterServer\obj\Debug\MasterServer.pdb

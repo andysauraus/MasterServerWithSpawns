@@ -1,0 +1,9 @@
+C:\Users\ANDY\Documents\masterserverdev\BeardedManStudios\bin\Debug\BeardedManStudios.dll
+C:\Users\ANDY\Documents\masterserverdev\BeardedManStudios\bin\Debug\BeardedManStudios.pdb
+C:\Users\ANDY\Documents\masterserverdev\BeardedManStudios\bin\Debug\ForgeNetworkingCommon.dll
+C:\Users\ANDY\Documents\masterserverdev\BeardedManStudios\bin\Debug\ForgeNetworkingCommon.pdb
+C:\Users\ANDY\Documents\masterserverdev\BeardedManStudios\obj\Debug\BeardedManStudios.csprojAssemblyReference.cache
+C:\Users\ANDY\Documents\masterserverdev\BeardedManStudios\obj\Debug\BeardedManStudios.csproj.CoreCompileInputs.cache
+C:\Users\ANDY\Documents\masterserverdev\BeardedManStudios\obj\Debug\BeardedManStudios.csproj.CopyComplete
+C:\Users\ANDY\Documents\masterserverdev\BeardedManStudios\obj\Debug\BeardedManStudios.dll
+C:\Users\ANDY\Documents\masterserverdev\BeardedManStudios\obj\Debug\BeardedManStudios.pdb
